@@ -4,7 +4,7 @@ Like Frogger, but with turtles. Try not to get hit by a car. Days 23 Python Boot
 
 
 ## Usage
-Using the arrow keys, try to navigate across the road while avoiding oncoming traffic.
+Using the up arrow, try to navigate across the road while avoiding oncoming traffic.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
